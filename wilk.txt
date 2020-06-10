@@ -1,0 +1,616 @@
+xxxtrangen
+trangen_dif1 = [("being", "nothing"), ("thing", "apparition"), ("notion", "fiction"), ("name", "person"),
+                 ("substance", "accident"), ("quantity", "quality"), ("action", "passion"),
+                 ("relation", "absoluteness")]
+trangen_dif2 = [("author", "instrument"), ("impulsive", "restraint"), ("example", "type"), 
+                  ("occasion", "conditional"), ("aid", "obstacle"), ("goal", "means"), ("matter", "form")]
+trangen_dif3 = [("truth", "falsehood"), ("goodness", "evilness"), ("private",), ("genuine", "illegitimate"),
+                 ("actual", "potential"), ("finite", "infinite"), ("natural", "artificial"),
+                 ("simplicity", "mix"), ("perfection", "imperfection")] 
+trangen_dif4 = [("profitable", "damage"), ("pleasant", "displeasing"), ("duty", "dishonest"), 
+                  ("possibility", "impossible"), ("importance", "frivolous"), ("worth",)]
+trangen_dif5 = [("lawfulness", "indifference"), ("decent", "indecent"), ("safety", "danger"),
+                 ("ease", "difficulty"), ("gentleness", "violence"), ("congruity", "contrast"),
+                 ("expedient", "inconvenient"), ("necessity", "contingent")]
+trangen_dif6 = [("subject", "adjunct"), ("object",), ("rite", "ceremony"), ("state",), ("sign",),
+                 ("room", "stead"), ("turn", "reciprocation"), ("degree", "impetus"), ("affinity", "opposition")]
+
+
+
+
+xxxtranmix
+tranmix_dif1 = [("indifference", "greatness", "littleness"), ("abundance", "scarcity"), ("excess", "defect"),
+                 ("excellence", "wretchedness"), ("equality", "inequality"), ("better", "worse"),
+                 ("increase", "decrease"), ("intention", "remission"), ("mend", "mar")]
+tranmix_dif2 = [("length", "shortness"), ("breadth", "narrow"), ("deep", "shallow"), 
+                  ("high", "low"), ("thin", "thick")]
+tranmix_dif3 = [("multitude", "few"), ("singularity", "plurality"), ("particular", "universal"),
+                 ("special", "general"), ("even", "odd"), ("segregate", "aggregate"),
+                 ("series", "catalogue"), ("pack",)] 
+tranmix_dif4 = [("primitive", "derivative"), ("immediate",), ("independent", "dependent"), 
+                  ("principle", "accessory"), ("pertinent", "irrelevant"), ("proper", "common")]
+tranmix_dif5 = [("like", "unlike"), ("order", "confusion"), ("ordinary", "extraordinary"),
+                 ("regular", "exorbitant"), ("public", "private"), ("ornate", "homely"),
+                 ("purity", "defile")]
+tranmix_dif6 = [("best", "dregs"), ("say", "vantage"), ("scum", "sediment"), ("lump", "powder"),
+                 ("chip", "fragment"), ("additum", "sum"), ("residue",), ("multiplier", "product"),
+                 ("divisor", "quotient")]
+
+
+
+
+xxxtranrelact
+tranrelact_dif1 = [("put", "alter"), ("appropriate", "alienate"), ("claim", "abdicate"),
+                 ("take", "leave"), ("have", "want"), ("hold", "relinquish"),
+                 ("seek", "find"), ("show", "conceal"), ("manifest", "seem")]
+tranrelact_dif2 = [("join", "separate"), ("adhere", "abandon"), ("apply", "abstract"), 
+                  ("comprehend", "exempt"), ("compare", "try"), ("repeat", "change"), ("restore", "compensate"),
+                 ("represent", "imitate"), ("repair", "spoil")]
+tranrelact_dif3 = [("design", "undertake"), ("prepare", "furnish"), ("begin", "offer"), ("endeavour", "test"),
+                 ("dispatch", "delay"), ("accomplish", "violate"), ("finish", "fail"),
+                 ("err", "omit"), ("prevent", "remedy")] 
+tranrelact_dif4 = [("yield", "submit"), ("offer", "demand"), ("deliver", "receive"), ("give", "accept"),
+                  ("disburse", "refund"), ("reckon", "balance"), ("creditor", "debtor"),
+                 ("reimburse", "bankrupt"), ("acquit", "forgive")]
+tranrelact_dif5 = [("obtain", "frustrate"), ("gain", "lose"), ("save", "spend"), ("preserve", "squander"),
+                 ("keep", "lose"), ("use", "abstain"), ("enjoy", "loathe"), ("refresh", "weary"),
+                 ("quiet", "trouble")]
+tranrelact_dif6 = [("come", "go"), ("proceed", "turn"), ("proceed", "turn"), ("expedition", "wander"),
+                 ("send", "fetch"), ("lead", "drive"), ("follow", "overtake"), ("meet", "avoid")]
+
+
+
+
+
+
+xxxdiscourse
+discourse_dif1 = [("letter", "character"), ("vowel", "consonant"), ("syllable", "diphthong"),
+                 ("hyphen", "punctuation"), ("comma", "semicolon"), ("colon", "period"),
+                 ("parenthesis",), ("emphasis", "irony"), ("accent",)]
+discourse_dif2 = [("integral", "particle"), ("abstract", "concrete"), ("substantive", "adjective"), 
+                  ("verb", "adverb"), ("subject", "predicate"), ("copula",), ("pronoun", "interjection"),
+                 ("preposition", "article"), ("conjunction",)]
+discourse_dif3 = [("clause", "sentence"), ("verse", "section"), ("chapter", "book"), ("prose", "verse"),
+                 ("meeter", "rhyme"), ("proper", "metaphor"), ("literal", "figurative"),
+                 ("express", "understood"), ("plain", "obscure")] 
+discourse_dif4 = [("distinction", "ambiguous"), ("limitation",), ("definition", "description"),
+                  ("division", "partition"), ("rule", "exception"), ("argument", "inference"),
+                 ("syllogism",), ("induction", "example"), ("citation", "allusion")]
+discourse_dif5 = [("proposition", "adage"), ("oration", "epistle"), ("narration", "rumor"),
+                 ("interpretation",), ("translation", "paraphrase"), ("commentary", "epitome"),
+                 ("prologue", "epilogue"), ("transition",), ("digression",)]
+discourse_dif6 = [("question", "answer"), ("affirmation", "negation"), ("supposition", "concession"),
+                 ("opposition", "contradiction"), ("objection", "solution"), 
+                  ("probation", "confirmation"), ("refute", "retort"), ("posing", "conviction"),
+                 ("confession", "recantation")]
+
+
+
+
+
+
+xxxgodworld
+godworld_dif1 = [("angel",), ("devil", "cherub"), ("soul",), ("vegetative",), ("sensitive",),
+                 ("sensitive",), ("rational",)]
+godworld_dif2 = [("star",), ("sun",), ("planet", "comet"), ("saturn", "jupiter"), ("mars", "venus"), 
+                  ("mercury",), ("world",), ("moon", "satellite")]
+godworld_dif3 = [("plane", "mountain"), ("continent", "island"), ("rock", "cliff"), ("peninsula",),
+                 ("isthmus", "bank"), ("shore",), ("quicksand",)] 
+godworld_dif4 = [("wave",), ("ocean", "lake"), ("well", "spring"), ("bay",), ("channel",),
+                  ("shore", "tide"), ("stream", "puddle")]
+godworld_dif5 = [("mineral",), ("plant",), ("herb", "grass"), ("animal",), ("man",)]
+godworld_dif6 = [("horizon",), ("equator",), ("zodiac",), ("meridian",), ("arctic", "antarctic"),
+                 ("tropic",), ("parallel",)]
+
+
+
+
+xxxelement
+element_dif1 = [("ether", "atmosphere"), ("exhalation", "vapor"), ("fume", "smoke"),
+                 ("wind", "tornado"), ("earthquake", "damp")]
+element_dif2 = [("drop", "bubble"), ("cloud", "mist"), ("rain", "dew"), ("frost", "snow"), 
+                  ("hail",), ("manna",), ("honey", "wax")]
+element_dif3 = [("dust",), ("dirt",), ("ashes", "soot"), ("clay", "mortar"), ("lime", "plaster")] 
+element_dif4 = [("rainbow",), ("halo",), ("chasm",)]
+element_dif5 = [("clearness", "hazy"), ("drizzle", "shower"), ("spout",), ("storm", "sleet"),
+                  ("gale",), ("tempest",)]
+
+
+
+
+xxxstone  
+stone_dif1 = [("brick",), ("flint",), ("pebble",), ("slate", "tile"), 
+                  ("whet-stone",), ("pumice", "emry"), ("sand", "gravel")]
+stone_dif2 = [("alabaster",), ("marble",), ("crystal", "glass"), ("coral", "amber")]
+stone_dif3 = [("opal",), ("pearl",), ("onyx",), ("turquoise",)]
+stone_dif4 = [("diamond",), ("ruby", "granite"), ("topaz",), ("emerald",), ("sapphire",), 
+                  ("amethyst",)]
+stone_dif5 = [("salt", "salt-peter"), ("tartar",), ("sulfur",), ("ambergris",)]
+stone_dif6 = [("chalk",), ("arsenic",)]
+   
+    
+
+
+    
+xxxmetals
+metals_dif1 = [("gold",), ("silver",), ("tin",), ("copper",), ("lead",), 
+                  ("iron",)]
+metals_dif2 = [("brass",), ("pewter",), ("steel",)]
+metals_dif3 = [("mercury",), ("antimony",), ("bismuth",)]
+metals_dif4 = [("sodium",), ("rust",)]
+
+
+
+
+xxxexanimals
+exanimals_dif1 = [("worm",), ("leech", "snail"), ("cricket", "cockroach"), ("louse", "flea")]
+exanimals_dif2 = [("locust",), ("cricket",), ("spider", "scorpion"), ("tick",), ("moth",)]
+exanimals_dif3 = [("maggot",), ("caterpillar",)]
+exanimals_dif4 = [("bee",), ("wasp", "hornet"), ("ant", "gnat"), ("cicada",), ("butterfly",), ("moth",)]
+exanimals_dif5 = [("weevil",), ("beetle",)]
+exanimals_dif6 = [("lobster",), ("crawfish",), ("shrimp",), ("crab",)]
+exanimals_dif7 = [("oyster",), ("scallop",), ("muscle",), ("barnacle",)]
+    
+    
+
+
+xxxspiritactions
+spiritactions_dif1 = [("creation", "annihilation", "abolish", "extinguish"),
+                     ("providence", "fate", "fortune", "luck"), ("blessing", "cursing"),
+                     ("preservation", "destruction", "perdition", "conservation", "savior"),
+                     ("rescue", "salvation", "forlorn", "derelict"),
+                     ("revelation", "inspiration"),
+                     ("redemption",) ]
+spiritactions_dif2 = [("thinking", "imagination", "notion", "study", "meditation"), 
+                  ("inquisition", "discovery", "investigation", "invention", "scrutiny"), 
+                  ("assent", "dissent", "agree", "vote"), ("believing", "faith", "disbelief"), 
+                  ("knowledge", "doubt", "hesitate", "cognition", "ambiguous"), 
+                 ("certainty", "opinion"), ("reasoning", "conjecture"), ("disdain", "prefer")]
+spiritactions_dif3 = [("deliberate", "observe"), ("consideration", "invention"), ("approval",),
+                 ("trust", "suspicion"), ("satisfaction",), ("plan", "expect")]
+spiritactions_dif4 = [("inclination", "aversion"), ("desire", "regret"), 
+                  ("intention", "hesitation"), ("election", "rejection"), ("prosecution",), 
+                  ("pleasure", "sorrow", "grief", "joy"), ("liberty", "necessity"), ("spontaneity",)]
+spiritactions_dif5 = [("admiration", "loathing"), ("favor", "malice"), ("love", "hatred"),
+                 ("mirth", "grief"), ("desire", "aversion"), ("hope", "fear"), ("confidence", "distrust"),
+                 ("boldness", "despair"), ("anger", "revenge")]
+spiritactions_dif6 = [("zeal", "glory"), ("scorn", "shame"), ("emulation", "jealousy"), 
+                  ("penitence", "remorse"), ("scorn", "disdain"), ("envy", "congratulations"),
+                 ("pity",), ("agony", "ecstasy")]
+    
+
+
+xxxcorpactions
+corpactions_dif1 = [("generation", "corruption"), ("impregnation", "conception"),
+                     ("birth", "abortion"), ("lactation", "brood"),
+                     ("feed", "digestion"), ("nourish", "grow"), ("living", "dying")]
+corpactions_dif2 = [("hunger", "eat"), ("thirst", "drink"), ("drowsy", "sleep"),
+                  ("wake", "dream"), ("lust", "copulation"), ("itch", "scratch"), 
+                  ("aching", "pricking"), ("tickle",), ("twitch", "tingle")]
+corpactions_dif3 = [("speaking", "grammar", "mute"), ("stutter", "lisp"), ("whisper", "yell"),
+                 ("read", "yell"), ("sing", "chirp"), ("dictate", "edit"), ("write", "print")]
+corpactions_dif4 = [("stare", "squint"), ("smile", "frown"), 
+                  ("laugh", "cry"), ("nod",), ("start", "tremble", "horror"), 
+                  ("huff", "sigh", "breathe"), ("kemboing",), ("groan", "grumble"),
+                 ("blush", "pale")]
+corpactions_dif5 = [("visit", "wait"), ("address", "entertain"), ("greeting",),
+                 ("cringe",), ("clap",), ("hug", "kiss"), ("compliment", "confer"),
+                 ("farewell",)]
+corpactions_dif6 = [("rise", "stand"), ("spread", "stretch"), ("shrink", "crumple"), 
+                  ("stoop", "lean"), ("sit", "squat"), ("kneel",), ("fall", "lie"),
+                 ("turn", "reverse"), ("cling", "hang")]
+
+
+xxxmotion
+
+
+motion_dif1 = [("go", "halt"), ("fly", "hover"), ("float", "dive"),
+                     ("swim", "sink"), ("leap", "hop"), ("creep", "wriggle")]
+motion_dif2 = [("walk", "run"), ("amble", "trot"), ("stalk", "straddle"),
+                  ("stagger", "steady"), ("slide", "stumble"), ("climb", "tumble"), 
+                  ("riding", "sailing")]
+motion_dif3 = [("pulse",), ("breathing", "snoring"), ("blow", "suction"),
+                 ("sob",), ("chew",), ("yawn",), ("lick", "swallow")]
+motion_dif4 = [("sneeze",), ("belch", "fart"), ("sweat",), ("spit", "snot"), 
+                  ("cough",), ("bleed", "scar"), ("blister",), ("urine",), ("vomit", "shit")]
+motion_dif5 = [("dice",), ("chart", "table"), ("chess", "checkers"), ("tennis", "bowling"),
+                 ("dance",), ("wrestling", "fencing"), ("music", "theater")]
+motion_dif6 = [("carrying", "holding"), ("throwing", "catching"), ("swing", "shake"), 
+                  ("strike", "knock"), ("pound", "peck"), ("break", "tear"), ("cut", "prick")]
+motion = [motion_dif1, motion_dif2, motion_dif3, motion_dif4, motion_dif5, motion_dif6, "motion"]
+    
+
+
+xxxoperation
+    
+operation_dif1 = [("lift",), ("balance",), ("cleave", "compress",), ("pull", "thrust"),
+                     ("rotate", "roll"), ("screw",), ("spring", "bend")]
+operation_dif2 = [("bind", "loosen"), ("tying", "tangle"), ("cover", "uncover"),
+                  ("shut", "open"), ("gather", "scatter"), ("heap", "spread"), 
+                  ("fill", "empty"), ("pour", "spill")]
+operation_dif3 = [("dig", "plow"), ("smoothen",), ("weeding", "manure"), ("sowing", "reaping"),
+                 ("threshing", "winnowing"), ("planting",), ("grafting",), ("pruning",)]
+operation_dif4 = [("shaving", "contusion"), ("grinding", "filing"), ("boring", "sawing"), 
+                  ("soldering", "gluing"), ("forging",), ("carving", "engraving"),
+                  ("kneading", "lathe"), ("painting", "varnishing")]
+operation_dif5 = [("twisting", "spinning"), ("weaving", "knitting"), ("dye", "milling"),
+                 ("sowing", "clipping"), ("folding", "curling"), ("washing", "smearing"),
+                 ("soaking", "infusion"), ("rubbing", "wiping"), ("brushing", "combing")]
+operation_dif6 = [("grinding", "sifting"), ("dissolution", "coagulation"), 
+                  ("precipitation", "corrosion"), ("straining", "filtration"), 
+                  ("digestion", "fermentation"), ("distilling",), ("charring", "sublimation")]
+
+
+
+
+xxxmanners
+manners_dif1 = [("justice", "injustice"), ("equity", "iniquity"), ("honesty", "censor"), 
+                      ("benevolence", "mischievousness"), ("mercy", "cruelty"),
+                     ("gratitude", "unthankful"), ("courage", "bravery", "cowardice"),
+                     ("patience", "stubbornness"), ("meekness", "peevish")]
+manners_dif2 = [("temperance", "epicurean"), ("abstinence", "gluttony"), ("sobriety", "drunk"),
+                  ("vigilance", "drowsiness"), ("moderation",), ("cleanliness", "slovenly"), 
+                  ("chastity", "rape", "lewdness", "debauchery")]
+manners_dif3 = [("generous", "prodigal", "covet"), ("greed",), ("frugal",), ("generous",),
+                 ("charity",), ("begging",), ("modesty", "shame"), ("arrogance",), ("ambition",)]
+manners_dif4 = [("truth", "lies"), ("faithfulness", "betrayal"), ("peaceful", "controversy"), 
+                  ("gossip", "shy"), ("secret", "talkative"), ("serious", "blithe"),
+                  ("courtesy", "cajole", "cynical"), ("complacent",), ("joking", "crude")]
+manners_dif5 = [("dutiful",), ("humility", "pride"), ("honour", "reverence"),
+                 ("respect", "disrespect"), ("loyalty", "rebellion"), ("loyalty", "governing"),
+                 ("obedience", "disobedience"), ("submission",)]
+manners_dif6 = [("graciousness", "harshness"), ("condescension", "insolence"), 
+                  ("friendly", "surly"), ("protection", "tyranny"), ("discipline", "misgovern"),
+                  ("reasonable", "unreasonable"), ("severity", "tenderness"), 
+                  ("gentleness", "austerity")]
+
+
+
+
+xxxsensqual
+
+
+sensqual_dif1 = [("light", "darkness"), ("sunshine", "shadow"), ("brightness", "dim"), 
+                      ("transparency", "opacity"), ("clearness", "blemish")]
+sensqual_dif2 = [("gray", "white", "black"), ("red", "yellow"), ("green", "blue"),
+                  ("purple",), ("piebald",), ("stripe", "spot"), ("checkered", "plaid")]
+sensqual_dif3 = [("shrill", "bass", "tenor"), ("jingle",), ("voice", "articulate"),
+                 ("whistle", "hiss"), ("note", "sharp", "flat"), ("tune", "chime"), ("hoarse", "shrill"),
+                 ("symphony", "dissonance"), ("melody",)]
+sensqual_dif4 = [("sweetness", "stench"), ("fatty", "spicy"), ("sour",), ("bitter",), ("salty",),
+                  ("fresh",), ("musty", "rotten")]
+sensqual_dif5 = [("hot", "cold"), ("wet", "dry"), ("density", "compact"), ("weight", "heavy"),
+                 ("hardness",), ("flexible", "stiffness")]
+sensqual_dif6 = [("softness", "hardness"), ("smoothness", "roughness"), ("thin", "thick"), 
+                  ("slimy", "slippery"), ("malleable", "brittle"), ("steadiness",)]
+
+
+
+
+xxxspace
+space_dif1 = [("present", "past", "future"), ("simultaneous", "posterity"), ("new", "old"), 
+                  ("soon", "late"), ("date", "epoch"), ("permanence", "transitory"),
+                 ("frequent", "seldom"), ("perpetuity", "sometimes"), ("ever", "never")]
+space_dif2 = [("presence", "absence"), ("contiguous", "distance"), ("near", "far"), 
+                  ("home", "source"), ("ample", "narrow"), ("common", "rare"),
+                 ("continual", "interrupted"), ("ubiquitous",)]
+space_dif3 = [("east", "west"), ("north", "south"), ("middle", "outskirts"), 
+                  ("side", "margin"), ("upper",), ("inside", "outside"),
+                 ("top", "bottom"), ("front","back"), ("right", "left")]
+
+
+
+
+xxxmeasure
+measure_dif1 = [("one",), ("two",), ("three",), ("four",), ("five",), ("six",),
+                  ("seven",), ("eight",), ("nine",)]
+measure_dif2 = [("line",), ("inch",), ("foot",), ("standard",), ("pearch",), ("furlong",),
+                   ("mile",), ("league",), ("degree",)]
+measure_dif3 = [("ounce",), ("pound",), ("ton",)]
+measure_dif4 = [("penny",), ("dime",), ("dollar",)]
+measure_dif5 = [("year",), ("spring", "summer"), ("autumn", "winter"), ("month", "week"), 
+                    ("day",), ("night",), ("morning", "afternoon"), ("hour", "minute")]
+measure_dif6 = [("infancy", "childhood"), ("adolescence", "youth"), ("adult", "elderly"),
+                    ("crone",)]
+
+
+xxxnaturalp
+naturalp_dif1 = [("intellect", "fool"), ("judgment", "simple"), ("conscience",), 
+                 ("desire", "listlessness")]
+naturalp_dif2 = [("discern", "stupor"), ("imagination", "delirium"), ("memory", "forgetfulness"), 
+                 ("appetite", "nauseate")]
+naturalp_dif3 = [("sight", "blindness"), ("hearing", "deafness"), ("smell",), ("taste",),
+                 ("touch", "numbness")]
+naturalp_dif4 = [("ingenuity", "perverse"), ("vivacity", "dunce"), ("serious", "wanton"),
+                 ("gentle", "fierce"), ("rapacity",), ("sturdy", "lazy"), ("hardy", "delicate")]
+naturalp_dif5 = [("whole", "crippled"), ("corrupted", "sane"), ("pain", "ease"),
+                 ("vigor", "decaying"), ("fat", "skinny"), ("beauty", "ugliness"), ("strength", "weakness"),
+                ("agility", "sluggish"), ("swift", "slow")]
+naturalp_dif6 = [("male", "female"), ("fertile", "barren"), ("ripe", "unripe")]
+
+
+xxxpparts
+pparts_dif1 = [("root", "knot"), ("stalk",), ("conscience",), ("branch", "thorn"), ("twig", "stick"), 
+                 ("rind", "pith"), ("gum", "resin"), ("sap", "juice")]
+pparts_dif2 = [("flower",), ("pulp", "shell"), ("husk",), ("bunch",), ("sprout", "leaf"), 
+                 ("stamen",), ("stalk", "tendril")]
+pparts_dif3 = [("apple",), ("plum", "berry"), ("nut",), ("acorn",), ("pod",), 
+                 ("grain", "kernel")]
+pparts_dif4 = [("scale",), ("shell",), ("gill",), ("horns",), ("bladder",), ("fin",), ("claw",),
+                 ("spawn",)]
+pparts_dif5 = [("feather", "quill"), ("wing", "tail"), ("talon",), ("beak", "trunk"), ("bladder",), 
+               ("stinger",), ("egg",), ("crest",), ("rump",)]
+pparts_dif6 = [("hair", "wool"), ("bristle", "down"), ("fur", "fleece"), ("beard", "mane"), 
+               ("hoof", "nail"), ("horn", "tail"), ("embryo",)]
+
+
+xxxgparts
+gparts_dif1 = [("spirit",), ("serum",), ("milk",), ("sperm",), ("blood",), ("gall",),
+              ("phlegm", "bile"), ("brain", "marrow")]
+gparts_dif2 = [("bone", "gristle"), ("ligament", "tendon"), ("skin", "membrane"), 
+               ("vein", "artery"), ("nerve", "fiber"), ("flesh", "muscle"), ("fat",)]
+gparts_dif3 = [("face", "scalp"), ("eye", "ear"), ("nose", "mouth"), ("tongue", "tooth"), 
+               ("palate", "throat"), ("forehead", "eyebrow"), ("cheek", "temple"), ("lip", "chin"),
+              ("jaw", "tonsils")]
+gparts_dif4 = [("neck", "shoulder"), ("breast", "nipple"), ("spine",), ("loin", "rib"), 
+               ("flank",), ("belly", "navel"), ("groin",), ("buttocks",)]
+gparts_dif5 = [("arm", "shoulder"), ("elbow",), ("hand", "wrist"), ("thigh",), ("knee",), 
+               ("foot", "heel"), ("finger", "knuckle")]
+gparts_dif6 = [("gullet",), ("heart", "lungs"), ("diaphragm",), ("stomach", "gut"), 
+               ("liver", "spleen"), ("caul",), ("kidney", "bladder"), ("genitals", "testicle"),
+              ("womb",)]
+
+
+
+
+xxxmagnitude
+magnitude_dif1 = [("point",), ("line",), ("surface",), ("solid",)]
+magnitude_dif2 = [("center", "pole"), ("vertex", "intersection"), ("diagonal", "side"), 
+                  ("tangent",), ("diameter", "axis"), ("sine",), ("parallel", "converge", "diverge",),
+                 ("oblique", "direct"), ("reflect", "refract")]
+magnitude_dif3 = [("straight", "crooked"), ("circle", "angle"), ("obtuse", "acute"), ("convex", "concave"),
+               ("sphere", "cube"), ("cylinder", "prism"), ("cone", "pyramid"), ("fat",),
+                 ("parabola", "hyperbola"), ("spiral", "helix")]
+magnitude_dif4 = [("pin", "hole"), ("tooth", "notch"), ("dent", "protuberance"), ("figure", "cross"), 
+               ("staple",), ("tuft",), ("whip",), ("hook", "fork"), ("undulate",)]
+magnitude_dif5 = [("triangle", "square"), ("ring", "loop"), ("bow", "wheel"), ("chink",), 
+               ("edge",), ("ridge",), ("step",)]
+magnitude_dif6 = [("hollow",), ("bottle",), ("pedestal",), ("mallet",), ("buoy",), 
+               ("oval",)]
+
+
+
+
+xxxecrel
+ecrel_dif1 = [("progenitor", "descendant"), ("parent", "child"), ("uncle", "nephew", "niece", "aunt"), 
+                  ("brother", "sister"), ("cousin",)]
+ecrel_dif2 = [("bachelor", "virgin"), ("suiter", "rival"), ("betrothed",), ("married",),
+                  ("widower",)]
+ecrel_dif3 = [("godfather", "godchild"), ("nursling",), ("teacher", "learner"), ("guardian", "pupil"),
+               ("domestic",), ("host", "guest"), ("master", "servant"), ("benefactor",),
+                 ("patron", "dependent")]
+ecrel_dif4 = [("friend", "enemy"), ("companion", "solitary"), ("neighbor", "foreigner"), 
+                  ("acquaintance", "stranger"), ("partner",), ("customer",)] 
+ecrel_dif5 = [("command", "forbid"), ("persuade", "dissuade"), ("beseech",), ("advise", "warn"), 
+               ("allure", "deter"), ("promise", "threaten"), ("commend", "reprehend"),
+                 ("praise",),]
+ecrel_dif6 = [("direct", "seduce"), ("encourage", "discourage"), ("comfort", "discomfort"), 
+                  ("maintain",), ("defend", "desert"), ("correcting",), ("reform", "harden")]
+
+
+xxxecpos
+ecpos_dif1 = [("farm", "manor"), ("field", "forest"), ("garden", "orchard"), ("meadow",), 
+                  ("pasture", "park"), ("pond",), ("woods", "heath"), ("fen", "marsh"),
+                 ("moor", "bog")]
+ecpos_dif2 = [("house", "tent"), ("palace", "castle"), ("tower", "steeple"), ("temple", "altar"),
+                  ("stove", "bath"), ("bridge", "scaffold"), ("street", "road"), ("vault",), ("sink",)]
+ecpos_dif3 = [("frame", "partition"), ("room", "apartment"), ("court", "entry"), ("foundation", "floor"),
+               ("pillar", "beam"), ("wall", "arch"), ("prop", "buttress"), ("roof", "ceiling"),
+                 ("hearth", "chimney")]
+ecpos_dif4 = [("stairs", "ladder"), ("door", "window"), ("threshold",), ("lock", "key"),
+                  ("bolt", "latch"), ("hinge",), ("staple",)] 
+ecpos_dif5 = [("chariot", "wagon"), ("cart",), ("barrow",), ("sled",), ("yoke",),
+               ("wheel", "axis"), ("spoke",), ("saddle", "stirrup"), ("bridle",)]
+ecpos_dif6 = [("tool",), ("knife", "hammer"), ("pump",), ("table", "shelf"), ("stool", "cushion"),
+                  ("chair", "couch"), ("bed",), ("trap",), ("mill", "clock")]
+
+
+xxxprovisions
+provisions_dif1 = [("meal",), ("bread", "pudding"), ("butter", "cheese"), ("pie",), ("jelly", "broth"),
+                  ("oil", "gravy"), ("ale", "beer")]
+provisions_dif2 = [("feast", "banquet"), ("sauce", "confection"), ("sugar", "syrup"), ("spice",),
+                  ("vinegar",), ("wine", "beverage"), ("spirit", "brandy")]
+provisions_dif3 = [("butcher", "cook"), ("boil", "stew"), ("roast", "bake"), ("fry", "boil"),
+               ("slash",), ("slice", "mince"), ("baste",), ("stratify",), ("pickle",)]
+provisions_dif4 = [("wool",), ("leather", "silk"), ("linen", "cotton"), ("lace",),
+                  ("scarf",), ("thread", "cord"), ("thong", "buckle"), ("lining",)] 
+provisions_dif5 = [("bag", "case"), ("box", "basket"), ("barrel", "tub"), ("dish", "tray"), 
+                  ("pot", "bottle"), ("kettle", "skillet"), ("faucet",), ("spoon", "scoop"),
+               ("cup", "plate")]
+provisions_dif6 = [("hay", "straw"), ("fuel",), ("candle", "lamp"), ("salve", "plaster"), ("soap", "starch"),
+                  ("pen", "ink"), ("paper", "book"), ("picture", "image")]
+
+
+
+
+xxxcivrel
+civrel_dif1 = [("magistrate", "subject"), ("king", "prince"), ("lord", "gentleman"), 
+                  ("graduate", "candidate"), ("people",), ("citizen",), ("rabble",),
+                  ("villain", "beggar"), ("freeman", "slave")]
+civrel_dif2 = [("divine", "philosopher"), ("lawyer",), ("doctor", "surgeon"), ("critic", "poet"),
+                  ("merchant", "mechanic"), ("shepherd",), ("hunter",), ("mariner",),
+                 ("actor", "magician", "comedian")]
+civrel_dif3 = [("nation", "colony"), ("country", "town"), ("province", "city"), ("parish",),
+               ("court", "council"), ("university", "school"), ("corporation",), ("league", "faction")]
+civrel_dif4 = [("nature", "custom"), ("election", "succession"), ("law", "edict"), ("patent",),
+                  ("propriety",), ("authority", "office"), ("prerogative", "privilege"), ("license",),
+                 ("toleration", "immunity")] 
+civrel_dif5 = [("assign", "deposit"), ("inherit",), ("sell", "buy"), ("lend", "borrow"), 
+                  ("hire",), ("earn", "wage"), ("price", "earnest"), ("bargain",), ("tribute", "tax")]
+civrel_dif6 = [("treaty",), ("bid", "demand"), ("promise", "protest"), ("sign", "seal"), ("vouch",),
+                  ("pawn", "mortgage"), ("wager", "bet")]
+
+
+xxxjudrel
+judrel_dif1 = [("judge", "alderman"), ("arbitrator",), ("accuser", "prisoner"), 
+                  ("plaintiff", "defendant"), ("notary", "crier"), ("marshall",), ("advocate", "witness")]
+judrel_dif2 = [("citation", "arrest"), ("bail",), ("indictment", "plea"), ("trial",),
+                  ("verdict",), ("innocent", "guilty"), ("acquit",), ("appeal",),
+                 ("execute", "pardon")]
+judrel_dif3 = [("witchcraft", "astrology"), ("treason", "conspiracy"), ("rebellion", "sedition"),
+               ("felony",), ("murder",), ("bestiality", "sodomy"), ("robbery", "theft"),
+                 ("arson", "burglary")]
+judrel_dif4 = [("harm",), ("fornication", "adultery"), ("usurpation", "detention"), ("fraud", "forgery"),
+                  ("oppression", "extortion"), ("bribery",), ("libel", "slander"), ("reproach",),
+                 ("revile", "mock")] 
+judrel_dif5 = [("behead",), ("shoot",), ("press",), ("stab", "impale"), ("starve", "poison"),
+                  ("smother",), ("drown", "immolate"), ("hang", "strangle"), ("crucify",)]
+judrel_dif6 = [("torture",), ("whipping",), ("rack", "strappado"), ("imprison", "bond"), ("exile",),
+                  ("stigmatization",), ("confiscate",), ("degrade", "incapacitate")]
+
+
+xxxmilrel
+milrel_dif1 = [("offend", "defend"), ("provoke", "defy"), ("assault", "resist"), 
+                  ("siege", "reinforce"), ("sapper",), ("assault",), ("fight", "duel"),
+                 ("skirmish", "battle"), ("stratagem", "ambush")]
+milrel_dif2 = [("victor",), ("advance", "retreat"), ("pursue", "flight"), ("win", "yield"),
+                  ("plunder", "spoils"), ("escape", "captive"), ("conquer", "submit"),
+                 ("triumph", "trophy")]
+milrel_dif3 = [("infantry", "cavalry"), ("ensign", "banner"), ("drummer", "trumpeter"),
+               ("sargeant",), ("scout", "spy"), ("guard", "watchman"), ("sentinel",)]
+milrel_dif4 = [("army",), ("brigade", "regiment"), ("squadron",), ("rank",),
+                  ("reserve",), ("bribery",)] 
+milrel_dif5 = [("weapon", "armor"), ("club", "sword"), ("pike", "halberd"), ("archer", "crossbow"),
+                  ("dart", "arrow"), ("gun", "artillery"), ("tinder", "gunpowder"), ("bullet",),
+                 ("shield",)]
+milrel_dif6 = [("garrison",), ("fort",), ("moat", "rampart")]
+
+
+xxxnavrel
+navrel_dif1 = [("boat", "ship")]
+navrel_dif2 = [("keel",), ("stern",), ("rudder",)]
+navrel_dif3 = [("mast",), ("oar",), ("sail",), ("anchor",)]
+navrel_dif4 = [("bowline",)]
+navrel_dif5 = [("pilot",), ("coxswain",), ("sailor",)]
+navrel_dif6 = [("calking",)]
+
+
+xxxeclrel
+eclrel_dif1 = [("religion",), ("paganism",), ("judaism",), ("christianity",),
+                 ("islam",)]
+eclrel_dif2 = [("patriarch", "prophet"), ("priest",), ("apostle",), ("bishop",),
+                 ("deacon",), ("penitence",), ("monk", "hermit")]
+eclrel_dif3 = [("orthodox", "heretic"), ("catholic",), ("confessor",), ("martyr",),
+                 ("saint", "scandal"), ("convert", "apostate")]
+eclrel_dif4 = [("prayer", "vow"), ("confession", "petition"), ("psalm",), ("preach",),
+                  ("fast", "festival"), ("marriage", "divorce"), ("burial",)] 
+eclrel_dif5 = [("consecration",), ("excommunication",),]
+eclrel_dif6 = [("scripture",), ("sacrifice", "incense"), ("sacrament",), ("circumcision",),
+                 ("baptism", "eucharist")]
+eclrel_dif7 = [("calking",)]
+
+
+xxxdisease
+disease_dif1 = [("contagion", "poison"), ("wound", "bruise"), ("plethora",), ("inflammation",),
+                 ("obstruction",), ("abscessus",), ("ulcer",), ("gangrene",),]
+disease_dif2 = [("fever",), ("hectic",), ("fever", "plague"), ("pox", "measles"),
+                 ("itch",), ("leprosy",)]
+disease_dif3 = [("scab",), ("boil",), ("cancer",), ("wart",)]
+disease_dif4 = [("frenzy", "madness"), ("lethargy",), ("vertigo", "epilepsy"), ("convulsion", "cramp")] 
+disease_dif5 = [("asthma",), ("palpitation",), ("fainting",)]
+disease_dif6 = [("jaundice",), ("scurvy",), ("colic",)]
+
+
+xxxbeast
+beast_dif1 = [("horse",), ("mule", "ass"), ("camel",), ("elephant",)]
+beast_dif2 = [("cow",), ("sheep", "goat"), ("elk", "stag"), ("deer",), ("pig",)]
+beast_dif3 = [("baboon", "ape"), ("monkey", "sloth"), ("hare",), ("rabbit",), ("porcupine",),
+                 ("squirrel",), ("rat", "mouse"), ("mole",)]
+beast_dif4 = [("lion", "bear"), ("tiger", "panther"), ("lynx",), ("cat",), ("ferret",),
+                 ("weasel",), ("otter",)] 
+beast_dif5 = [("dog", "wolf"), ("fox", "badger"), ("seal",), ("jackal",), ("armadillo",)]
+beast_dif6 = [("tortoise", "turtle"), ("frog", "toad"), ("crocodile", "iguana"), ("lizard",),
+                 ("salamander",), ("serpent",), ("snake", "viper")]
+
+
+
+
+xxxfish
+fish_dif1 = [("whale",)]
+fish_dif2 = [("skate",),]
+fish_dif3 = [("cod",), ("haddock",)] 
+fish_dif4 = [("herring",), ("anchovy",)]
+fish_dif5 = [("saurus",),]
+fish_dif6 = [("eel",),]
+fish_dif7 = [("halibut",),]
+fish_dif8 = [("starfish",),]
+
+
+
+
+xxxbirds
+birds_dif1 = [("vulture",), ("hawk",), ("cuckoo",), ("owl",), ("raven", "crow"), ("jackdaw",),
+                 ("parrot",), ("magpie",), ("woodpecker",)]
+birds_dif2 = [("chicken",), ("peacock", "turkey"), ("pheasant",), ("bustard",), ("partridge",)]
+birds_dif3 = [("pidgeon",), ("dove",), ("hare",)]
+birds_dif4 = [("sparrow",)] 
+birds_dif5 = [("wren",),]
+birds_dif6 = [("snipe",),]
+birds_dif7 = [("crane",),]
+birds_dif8 = [("swan",),]
+
+
+xxxtrees
+trees_dif1 = [("medlar",)]
+trees_dif2 = [("jujubs",)]
+trees_dif3 = [("nettle",)] 
+trees_dif4 = [("nut",)]
+trees_dif5 = [("oak",), ("cedar", "pine")]
+trees_dif6 = [("elm",), ("maple",), ("birch",), ("poplar",)]
+trees_dif7 = [("rosewood",), ("ebony",)]
+trees_dif8 = [("myrrh",)]
+
+
+xxxshrub
+shrub_dif1 = [("briar",), ("raspberry",)]
+shrub_dif2 = [("vine",), ("pepper",)]
+shrub_dif3 = [("juniper",), ("ivy",)] 
+shrub_dif4 = [("licorice",),]
+shrub_dif5 = [("tamarisk",),]
+shrub_dif6 = [("rosemary",),]
+
+
+xxxherbseed
+herbseed_dif1 = [("piony",),]
+herbseed_dif2 = [("lentil",),]
+herbseed_dif3 = [("bean",), ("chickpea",),] 
+herbseed_dif4 = [("turnip",), ("radish",), ("mustard",)]
+herbseed_dif5 = [("flax",)]
+herbseed_dif6 = [("poppy",)]
+herbseed_dif7 = [("melon",), ("gourd",), ("cucumber",), ("tobacco",)]
+herbseed_dif8 = [("snapdragon",)]
+herbseed_dif9 = [("strawberry",), ("nightshade",)]
+
+
+xxxherbflower
+herbflower_dif1 = [("rhubarb",), ("hemp",), ("spinach",), ("beet",),]
+herbflower_dif2 = [("sunflower",), ("marigold",), ("daisy",)]
+herbflower_dif3 = [("bean",), ("chickpea",),] 
+herbflower_dif4 = [("artichoke",), ("lettuce",), ("dandelion",)]
+herbflower_dif5 = [("parsley",), ("parsnip",)]
+herbflower_dif6 = [("fennel",), ("cumin",), ("hemlock",)]
+herbflower_dif7 = [("sage",), ("thyme",), ("lavender",)]
+herbflower_dif8 = [("mint",), ("basil",)]
+herbflower_dif9 = [("hollyhock",)]
+
+
+xxxherbleaf
+herbleaf_dif1 = [("mushroom", "mold"), ("moss",), ("fern",)]
+herbleaf_dif2 = [("wheat", "rye"), ("corn",), ("barley", "rice"), ("oat",)]
+herbleaf_dif3 = [("reed",), ("cane",),] 
+herbleaf_dif4 = [("lilly",), ("tulip",), ("daffodil",), ("onion", "leek"), ("garlic",)]
+herbleaf_dif5 = [("dogstooth",)]
+herbleaf_dif6 = [("pansy",)]
+herbleaf_dif7 = [("plantain",)]
+herbleaf_dif8 = [("rosewort",)]
+herbleaf_dif9 = [("spurry",)]
